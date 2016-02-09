@@ -9,7 +9,7 @@
   "source": "git://github.com/thedonkdonk/pbis.git",
   "summary": "Joins a node to an Active Directory domain using PowerBroker Identity Services Open Edition.",
   "tags": [],
-  "version": "0.1.2",
+  "version": "0.1.3",
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
